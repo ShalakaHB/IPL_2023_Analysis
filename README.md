@@ -64,14 +64,15 @@ This dataset provides an overview of each match played during the IPL 2023 seaso
 ## Key Areas of Analysis:
 ### Most runs
 
-![WhatsApp Image 2024-08-22 at 3 44 12 PM](https://github.com/user-attachments/assets/68f5e869-8c43-43dd-a6d9-5a80d2ae1f2c)
+![most runs](https://github.com/user-attachments/assets/1597956b-2e28-489b-b6fe-8e3b8704e810)
+
 
 Based on the graph, it can be observed that in IPL23, all the batsmen, except for ‘SA Yadav’ and ‘RK Singh’, were openers for their respective teams. This implies that 8 out of the top 10 scorers in IPL23 were openers. The reason for this could be that openers face more balls, increasing their chances of scoring more runs. Additionally, two players from each of the following teams reached the top 10 scorers list: Mumbai Indians, Chennai Super Kings, and Royal Challengers Bangalore. In addition, four of the ten batsmen were left-handed.
 
 
 ### Centuries in IPL 2023
 
-![WhatsApp Image 2024-08-22 at 3 44 12 PM](https://github.com/user-attachments/assets/fd2677b1-3179-4b79-a2fc-8dae71702771)
+![100s in IPL ](https://github.com/user-attachments/assets/5b660b25-7621-49f8-ae7c-4d445da6929d)
 
 
 Regarding the graph above, IPL23 had a total of 12 centuries recorded. Shubman Gill achieved this feat three times, while V Kohli accomplished it twice during the tournament. The graph also shows that only two players managed to score 120+ runs. This could be due to a player getting dismissed after scoring a century or not having enough balls left to add more to their score.
@@ -79,7 +80,55 @@ Regarding the graph above, IPL23 had a total of 12 centuries recorded. Shubman G
 
 ### Most 50s
 
-![WhatsApp Image 2024-08-22 at 3 44 12 PM](https://github.com/user-attachments/assets/73c93ae0-4e03-4051-8fcc-3a00df4f30de)
+![50S in IPL ](https://github.com/user-attachments/assets/53ead41d-e39e-4c8d-97a7-15289722535f)
 
 
 In IPL23, three players from the ‘Royal Challengers Bangalore’ team were among the list of top 10 players who scored more than 50 runs. This suggests that the team had a vigorous batting lineup. Furthermore, it's noteworthy that nine of the 10 players who made the list were openers for their respective teams.
+
+### Most 4s
+
+![4s ](https://github.com/user-attachments/assets/d13e63f5-993e-43fd-80cb-1b3f8cfced1f)
+
+
+9 out of 10 players in the top list of fours were openers to their respective teams.
+
+### Most 6s
+
+![6s ](https://github.com/user-attachments/assets/65b19794-4734-4b56-8411-5f5c44f26a40)
+
+
+Four out of ten players on this list were openers. The remaining players were hard-hitters for their respective teams in IPL23. If a player hits more sixes, we can infer that the player had hard-hitting skill and may have a higher strike rate in the game. Hard-hitters are very helpful for the squad.
+
+
+### Best batting average
+
+![best avg](https://github.com/user-attachments/assets/72c9f6b0-619f-45f1-ba8e-01730da6f357)
+
+
+‘Vivrant Sharma’ from ‘Sunrisers Hyderabad’ played only match in this season in which he scored 69 runs leading to an average of 69. That’s the reason he had topped the batting average list. Two players each from ‘Gujarat Titans’ and ‘Royal Challengers Bangalore’ topped the list which tells that these teams had certain batters with good batting consistency. Average depends on the number of times a batsmen was out and the number of runs scored.
+
+### Best Average Striker Rate
+
+A limit is kept to the balls faced because there might be a chance that a lower-order batsman can score a boundary from one ball which leads to a spike in strike rate. So, a threshold value is necessary to find out who had the best batting average strike rate in IPL23. I considered the threshold value as 100 here.
+
+![highest strike rate ](https://github.com/user-attachments/assets/e85efdab-e774-4e91-a0aa-adc73fa48f6b)
+
+
+From the above graph, most of the players maintained a strike rate of around 150–160. Only one player, ‘H Klassen’ from ‘Sunrisers Hyderabad’ had the strike rate above 180 in IPL23. There is a difference of approximately 20 in strike rate with the second player on the list, which suggests that he had a good skill to send the ball to the boundary. Strike rate also depends on the number of balls faced. Players who can score more runs with facing less number of balls will help to put more runs on scoreboard.
+
+### Most ducks
+It can help players to improve their batting skills and can know where a player is lacking.
+
+![most ducks](https://github.com/user-attachments/assets/4db660f2-86e4-4d78-b8c7-1e37b50bd2e2)
+
+
+From the above graph, ‘JC Buttler’ from ‘Rajasthan Royals’ was out without scoring a run five times with ‘KD Karthik’ second. Although, ‘JC Buttler’ was the highest run scorer in IPL22. He even led his team to IPL22 finals.
+
+### Most wickets taken
+
+![highest wicket ](https://github.com/user-attachments/assets/1da59f3a-671b-4983-bd8e-82dceb3076bc)
+
+
+The highest-ranking players on the list were from 'Gujarat Titans' team, indicating that they had a stronger bowling lineup compared to other teams. Further down the list, three players from the 'Chennai Super Kings' team also made the cut, suggesting that they too had a good bowling unit. Out of the ten players, five were spinners, with four of them being right-arm leg break bowlers. Based on this data, it can be inferred that right-arm leg break bowlers have a higher chance of taking more wickets under Indian conditions.
+
+
