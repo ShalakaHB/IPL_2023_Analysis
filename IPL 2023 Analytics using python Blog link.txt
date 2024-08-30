@@ -1,0 +1,14 @@
+
+IPL 2023 Analytics using python
+
+Blog link :-  https://medium.com/@baradkarshalaka/ipl-2023-analytics-using-python-80eb0ed26707
+
+
+
+
+Dataset Resources :
+
+Match.csv :- https://www.kaggle.com/datasets/pardeep19singh/indian-premier-league-cricket-2023/data?select=matches.csv
+
+
+Deliveries.csv :- https://www.kaggle.com/datasets/pardeep19singh/indian-premier-league-cricket-2023/data?select=deliveries.csv
